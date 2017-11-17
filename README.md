@@ -31,4 +31,4 @@
 ![Account menu](https://i.imgur.com/cdS5LcI.png)
 
 ### Video demo of app & account creation process
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 199.083%;"><iframe src="https://streamable.com/s/z1eoe/vobke" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+[![ Video demo of app & account creation process](https://i.imgur.com/ullEVPd.png)](https://streamable.com/z1eoe)
