@@ -26,6 +26,7 @@
 - Parsed/handled JSON data for handling information comprising chat messages
 - Account login verification with help of Alamofire
 - HTTP Methods for RESTful chat API via Alamofire for operations including account login, account creation, channel list retrieval, writing messages to chat channels, and more
+- Event driven app using MVC pattern, learning about closures, completionHandlers, and callbacksS
 
 
 ## Screenshots / Demo
